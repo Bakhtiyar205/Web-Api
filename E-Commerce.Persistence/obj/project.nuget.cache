@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJ1j5O3uEFI6Jw+bdaklD3y9gfyvwsRxKAg6XbDx6P8CwBznhCLS0gUvse84BZbn6QCW6B+wI7KHgtJ7dRUKNg==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/E-Commerce.Persistence.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

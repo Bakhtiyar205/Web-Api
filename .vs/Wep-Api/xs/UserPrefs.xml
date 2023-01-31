@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{223813A7-A270-492C-B8FE-5FBAF579897D}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.E-Commerce.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Infrastructure/E-Commerce.Infrastructure/Class1.cs" Line="1" Column="1" />
+      <File FileName="Core/E-Commerce.Domain/Entities/Common/BaseEntity.cs" Line="6" Column="14" />
+      <File FileName="Core/E-Commerce.Domain/Entities/Product.cs" Line="6" Column="35" />
+      <File FileName="Core/E-Commerce.Application/IProductService.cs" Line="8" Column="31" />
+      <File FileName="E-Commerce.Persistence/Concrete/ProductService.cs" Line="26" Column="34" />
+      <File FileName="E-Commerce.Persistence/ServiceRegistration.cs" Line="12" Column="43" />
+      <File FileName="Presentation/E-/Program.cs" Line="28" Column="1" />
+      <File FileName="Presentation/E-/Controllers/ProductController.cs" Line="25" Column="52" />
+      <File FileName=".vs/Wep-Api/xs/UserPrefs.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Wep-Api" expanded="True">
+            <Node name="E-Commerce.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="E-Commerce.Application" expanded="True" />
+            <Node name="E-Commerce.Domain" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Common" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="E-Commerce.Persistence" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,17 @@
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/bin/Debug/net7.0/E-Commerce.Infrastructure.deps.json
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/bin/Debug/net7.0/E-Commerce.Infrastructure.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/bin/Debug/net7.0/E-Commerce.Infrastructure.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/bin/Debug/net7.0/E-Commerce.Application.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/bin/Debug/net7.0/E-Commerce.Domain.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/bin/Debug/net7.0/E-Commerce.Application.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/bin/Debug/net7.0/E-Commerce.Domain.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.csproj.AssemblyReference.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.AssemblyInfo.cs
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.csproj.CopyComplete
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/refint/E-Commerce.Infrastructure.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/E-Commerce.Infrastructure.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/Debug/net7.0/ref/E-Commerce.Infrastructure.dll

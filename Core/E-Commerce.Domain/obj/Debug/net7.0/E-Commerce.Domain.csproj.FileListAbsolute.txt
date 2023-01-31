@@ -1,0 +1,12 @@
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/bin/Debug/net7.0/E-Commerce.Domain.deps.json
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/bin/Debug/net7.0/E-Commerce.Domain.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/bin/Debug/net7.0/E-Commerce.Domain.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/E-Commerce.Domain.csproj.AssemblyReference.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/E-Commerce.Domain.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/E-Commerce.Domain.AssemblyInfo.cs
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/E-Commerce.Domain.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/E-Commerce.Domain.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/refint/E-Commerce.Domain.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/E-Commerce.Domain.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/Debug/net7.0/ref/E-Commerce.Domain.dll

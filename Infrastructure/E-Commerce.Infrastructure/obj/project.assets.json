@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "E-Commerce.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "E-Commerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/E-Commerce.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E-Commerce.Application.dll": {}
+        }
+      },
+      "E-Commerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/E-Commerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E-Commerce.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-Commerce.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/E-Commerce.Application/E-Commerce.Application.csproj",
+      "msbuildProject": "../../Core/E-Commerce.Application/E-Commerce.Application.csproj"
+    },
+    "E-Commerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/E-Commerce.Domain/E-Commerce.Domain.csproj",
+      "msbuildProject": "../../Core/E-Commerce.Domain/E-Commerce.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "E-Commerce.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/macbook/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/E-Commerce.Infrastructure.csproj",
+      "projectName": "E-Commerce.Infrastructure",
+      "projectPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/E-Commerce.Infrastructure.csproj",
+      "packagesPath": "/Users/macbook/.nuget/packages/",
+      "outputPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Infrastructure/E-Commerce.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/macbook/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Application/E-Commerce.Application.csproj": {
+              "projectPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Application/E-Commerce.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Persistence.deps.json
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Persistence.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Persistence.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Application.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Domain.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Application.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Domain.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.csproj.AssemblyReference.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.AssemblyInfo.cs
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.csproj.CopyComplete
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/refint/E-Commerce.Persistence.dll
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/ref/E-Commerce.Persistence.dll
