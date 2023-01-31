@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.Infrastructure",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.Persistence", "E-Commerce.Persistence\E-Commerce.Persistence.csproj", "{15F0DF98-B0B7-44D7-A8C1-EAAC58225031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.Api", "Presentation\E-\E-Commerce.Api.csproj", "{223813A7-A270-492C-B8FE-5FBAF579897D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.Api", "Presentation\E-Commerce.Api\E-Commerce.Api.csproj", "{2137851D-CA1F-488C-8C28-CBBBF8DD6B6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{15F0DF98-B0B7-44D7-A8C1-EAAC58225031}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15F0DF98-B0B7-44D7-A8C1-EAAC58225031}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15F0DF98-B0B7-44D7-A8C1-EAAC58225031}.Release|Any CPU.Build.0 = Release|Any CPU
-		{223813A7-A270-492C-B8FE-5FBAF579897D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{223813A7-A270-492C-B8FE-5FBAF579897D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{223813A7-A270-492C-B8FE-5FBAF579897D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{223813A7-A270-492C-B8FE-5FBAF579897D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2137851D-CA1F-488C-8C28-CBBBF8DD6B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2137851D-CA1F-488C-8C28-CBBBF8DD6B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2137851D-CA1F-488C-8C28-CBBBF8DD6B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2137851D-CA1F-488C-8C28-CBBBF8DD6B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

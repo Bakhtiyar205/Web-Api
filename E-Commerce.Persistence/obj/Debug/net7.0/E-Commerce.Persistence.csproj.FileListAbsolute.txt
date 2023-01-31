@@ -1,4 +1,5 @@
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Persistence.deps.json
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Persistence.runtimeconfig.json
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Persistence.dll
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Persistence.pdb
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/bin/Debug/net7.0/E-Commerce.Application.dll
@@ -14,4 +15,5 @@
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.dll
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/refint/E-Commerce.Persistence.dll
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.pdb
+/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/E-Commerce.Persistence.genruntimeconfig.cache
 /Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/E-Commerce.Persistence/obj/Debug/net7.0/ref/E-Commerce.Persistence.dll
