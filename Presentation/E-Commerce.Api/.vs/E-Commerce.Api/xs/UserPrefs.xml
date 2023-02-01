@@ -9,9 +9,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="E-Commerce.Api" expanded="True">
+          <Node name="E-Commerce.Api" expanded="True" selected="True">
             <Node name="E-Commerce.Api" expanded="True">
-              <Node name="Controllers" expanded="True" selected="True" />
+              <Node name="Controllers" expanded="True" />
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>
