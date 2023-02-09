@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Application/E-Commerce.Application.csproj": {}
+    "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Application/E-Commerce.Application.csproj": {
+    "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Application/E-Commerce.Application.csproj",
+        "projectUniqueName": "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj",
         "projectName": "E-Commerce.Application",
-        "projectPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Application/E-Commerce.Application.csproj",
-        "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Application/obj/",
+        "projectPath": "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj",
+        "packagesPath": "C:\\Users\\b.amrahov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/macbook/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\b.amrahov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/E-Commerce.Domain.csproj": {
-                "projectPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/E-Commerce.Domain.csproj"
+              "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj": {
+                "projectPath": "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj"
               }
             }
           }
@@ -64,27 +65,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/E-Commerce.Domain.csproj": {
+    "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/E-Commerce.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
         "projectName": "E-Commerce.Domain",
-        "projectPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/E-Commerce.Domain.csproj",
-        "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Documents/Programming/AngularAspNEt/Wep-Api/Core/E-Commerce.Domain/obj/",
+        "projectPath": "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
+        "packagesPath": "C:\\Users\\b.amrahov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.amrahov\\Documents\\E-commerce-Web-Api\\Core\\E-Commerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/macbook/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\b.amrahov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -118,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
