@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 using E_Commerce.Application.Repositories;
 using E_Commerce.Domain.Entities.Common;
 using E_Commerce.Persistence.Contexts;

@@ -35,6 +35,9 @@ namespace ECommerce.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
                     b.ToTable("Customers");
@@ -53,19 +56,19 @@ namespace ECommerce.Persistence.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("CustomerId")
-                        .HasColumnType("int");
-
-                    b.Property<Guid>("CustomerId1")
+                    b.Property<Guid>("CustomerId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
+
                     b.HasKey("Id");
 
-                    b.HasIndex("CustomerId1");
+                    b.HasIndex("CustomerId");
 
                     b.ToTable("Orders");
                 });
@@ -83,11 +86,14 @@ namespace ECommerce.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<long>("Price")
-                        .HasColumnType("bigint");
+                    b.Property<float>("Price")
+                        .HasColumnType("real");
 
                     b.Property<int>("Stock")
                         .HasColumnType("int");
+
+                    b.Property<DateTime>("UpdateDate")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 
@@ -112,8 +118,8 @@ namespace ECommerce.Persistence.Migrations
             modelBuilder.Entity("E_Commerce.Domain.Entities.Order", b =>
                 {
                     b.HasOne("E_Commerce.Domain.Entities.Customer", "Customer")
-                        .WithMany("MyProperty")
-                        .HasForeignKey("CustomerId1")
+                        .WithMany("Orders")
+                        .HasForeignKey("CustomerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -137,7 +143,7 @@ namespace ECommerce.Persistence.Migrations
 
             modelBuilder.Entity("E_Commerce.Domain.Entities.Customer", b =>
                 {
-                    b.Navigation("MyProperty");
+                    b.Navigation("Orders");
                 });
 #pragma warning restore 612, 618
         }

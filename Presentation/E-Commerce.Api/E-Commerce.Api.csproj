@@ -20,15 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\E-Commerce.Application\E-Commerce.Application.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\..\E-Commerce.Persistence\E-Commerce.Persistence.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\..\E-Commerce.Persistence\E-Commerce.Persistence.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
+    <ProjectReference Include="..\..\Infrastructure\E-Commerce.Persistence\E-Commerce.Persistence.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Controllers\" />

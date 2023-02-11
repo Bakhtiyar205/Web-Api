@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System.Threading.Tasks;
 using E_Commerce.Domain.Entities.Common;
 
 namespace E_Commerce.Application.Repositories;

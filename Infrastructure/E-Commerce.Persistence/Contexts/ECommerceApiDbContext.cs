@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading;
+using System.Threading.Tasks;
 using E_Commerce.Domain.Entities;
 using E_Commerce.Domain.Entities.Common;
 using Microsoft.EntityFrameworkCore;
@@ -27,6 +29,7 @@ namespace E_Commerce.Persistence.Contexts
                 {
                     EntityState.Added => data.Entity.CreatedDate = DateTime.Now,
                     EntityState.Modified => data.Entity.UpdateDate = DateTime.Now,
+                    _ => DateTime.UtcNow
                 };
             }
 
