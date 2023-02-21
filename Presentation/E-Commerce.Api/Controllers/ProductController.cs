@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using E_Commerce.Application.Repositories.CustomerRepository;
 using E_Commerce.Application.Repositories.OrderRepository;
 using E_Commerce.Application.Repositories.ProductRepository;
+using E_Commerce.Application.RequestParameters;
 using E_Commerce.Application.ViewModels.Products;
 using E_Commerce.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -18,20 +19,32 @@ public class ProductController : Controller
     private readonly IProductWriteRepository _productWriteRepository;
 
     public ProductController(IProductReadRepository productReadRepository,
-                             IProductWriteRepository productWriteRepository,
-                             IOrderReadRepository orderReadRepository,
-                             IOrderWriteRepository orderWriteRepository,
-                             ICustomerWriteRepository customerWriteRepository,
-                             ICustomerReadRepository customerReadRepository)
+                             IProductWriteRepository productWriteRepository)
     {
         _productReadRepository = productReadRepository;
         _productWriteRepository = productWriteRepository;
     }
     // GET
     [HttpGet]
-    public async Task<IActionResult> Get()
+    public async Task<IActionResult> Get([FromQuery]Pagination pagination)
     {
-        return Ok(_productReadRepository.GetAll(false));
+        var totalCount = _productReadRepository.GetAll().Count();
+        var products = _productReadRepository.GetAll(false)
+            .Skip(pagination.Page * pagination.Size)
+            .Take(pagination.Size).Select(p => new
+        {
+            p.Id,
+            p.Name,
+            p.Stock,
+            p.Price,
+            p.CreatedDate,
+            p.UpdateDate
+        });
+        return Ok(new
+        {
+            totalCount,
+            products
+        });
     }
 
     [HttpGet("id")]
