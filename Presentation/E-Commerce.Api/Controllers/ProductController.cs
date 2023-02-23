@@ -83,7 +83,10 @@ public class ProductController : Controller
     {
         await _productWriteRepository.Remove(id);
         await _productWriteRepository.SaveAsync();
-        return Ok();
+        return Ok(new
+        {
+            message = "Product is deleted"
+        });
     }
     
 }
