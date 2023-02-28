@@ -37,6 +37,7 @@ if (app.Environment.IsDevelopment())
     //sa
 }
 
+app.UseStaticFiles();
 app.UseCors();
 
 app.UseHttpsRedirection();
